@@ -88,11 +88,12 @@ Here are some canonical problems and their classes listed in order of importance
     - Detect whether linked list has cycles
     - Find strt of a cycle in a linked list
     - Delete nth element from end of linked list 
-    ### Binary Search
-    - Given an integer x, find its square root. If x is not a perfect square, return floor(sqrt(x))
-    - Find the leftmost and rightmost occurrence of a value in a sorted array
 
-#### Uncategorized
+### Binary Search
+- Given an integer x, find its square root. If x is not a perfect square, return floor(sqrt(x))
+- Find the leftmost and rightmost occurrence of a value in a sorted array
+
+### Uncategorized
 - Print a matrix in spiral order
 - Convert from one base to another
 - Reverse digits of an integer using modulo and division
